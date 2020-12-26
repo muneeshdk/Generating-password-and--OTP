@@ -1,1 +1,1 @@
-//Generating-password-and--OTP
+Generating-password-and--OTP using java programming language
